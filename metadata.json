@@ -1,0 +1,5 @@
+{
+  "name": "RG Love Calculator",
+  "description": "A deterministic love calculator using a specialized algorithm to test compatibility between two names, featuring AI-powered relationship advice.",
+  "requestFramePermissions": []
+}
